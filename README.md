@@ -1,14 +1,14 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=true&text=Ol%C3%A1,%20eu%20sou%20o%20Pedro%20Limeis!%20%F0%9F%91%8B&fontSize=30&fontColor=FFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=fff01"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=true&text=Hello,%20I'm%20Pedro%20Limeis!%20%F0%9F%91%8B&fontSize=30&fontColor=FFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=fff01"  />
 </div>
 
 ###
 
-<h1 align="center">ʙᴇᴍ ᴠɪɴᴅᴏ ᴀᴏ ᴍᴇᴜ ɢɪᴛʜᴜʙ! 👾</h1>
+<h1 align="center">ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴍʏ ɢɪᴛʜᴜʙ! 👾</h1>
 
 ###
 
-<h1 align="center">ʟɪɴɢᴜᴀɢᴇɴꜱ 💻</h1>
+<h1 align="center">ʟᴀɴɢᴜᴀɢᴇꜱ 💻:</h1>
 
 ###
 
@@ -38,7 +38,7 @@
 
 ###
 
-<h1 align="center">ᴛᴇᴄɴᴏʟᴏɢɪᴀꜱ:</h1>
+<h1 align="center">ᴛᴇᴄʜɴᴏʟᴏɢɪᴇꜱ 🛠️:</h1>
 
 ###
 
@@ -58,7 +58,7 @@
 
 ###
 
-<h1 align="center">ʀᴇᴅᴇꜱ ꜱᴏᴄɪᴀꜱ/ᴄᴏɴᴛᴀᴛᴏ:</h1>
+<h1 align="center">ꜱᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ/ᴄᴏɴᴛᴀᴄᴛ 📧:</h1>
 
 ###
 
