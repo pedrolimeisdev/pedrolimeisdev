@@ -4,15 +4,15 @@
 
 ###
 
-<img align="right" height="180" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjk4ZmRyYzFoYm04amZsbHYwcDVueHB6aGtsdXJjNWdxY2xtbDZ0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif"  />
-
-###
-
 <h1 align="center">ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴍʏ ɢɪᴛʜᴜʙ! 👾</h1>
 
 ###
 
 <h1 align="center">ʟᴀɴɢᴜᴀɢᴇꜱ :</h1>
+
+###
+
+<img align="right" height="180" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjk4ZmRyYzFoYm04amZsbHYwcDVueHB6aGtsdXJjNWdxY2xtbDZ0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif"  />
 
 ###
 
