@@ -1,14 +1,10 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=true&text=Ol%C3%A1,%20eu%20sou%20o%20Pedro%20Limeis!%20%F0%9F%91%8B&fontSize=30&fontColor=FFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=true&text=Ol%C3%A1,%20eu%20sou%20o%20Pedro%20Limeis!%20%F0%9F%91%8B&fontSize=30&fontColor=FFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=fff01"  />
 </div>
 
 ###
 
-<h1 align="center">ʙᴇᴍ ᴠɪɴᴅᴏ ᴀᴏ ᴍᴇᴜ ɢɪᴛʜᴜʙ! 👾<br><br>ꜱᴏʙʀᴇ ᴍɪᴍ:</h1>
-
-###
-
-<h2 align="left">Sou um desenvolvedor apaixonado por codar, cursando ADS na FIAP e me especializando em outros cursos de  programação pela Alura. Tenho experiência prática e projetos reais com Selenium e Python, focados em automação de processos e web scraping.</h2>
+<h1 align="center">ʙᴇᴍ ᴠɪɴᴅᴏ ᴀᴏ ᴍᴇᴜ ɢɪᴛʜᴜʙ! 👾</h1>
 
 ###
 
@@ -81,7 +77,7 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&reversal=true&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&reversal=true&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=undefined"  />
 </div>
 
 ###
